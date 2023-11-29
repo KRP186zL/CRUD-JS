@@ -1,0 +1,19 @@
+{
+  "name": "crud",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KRP186zL/CRUD-JS.git"
+  },
+  "author": "Krisna Rizki Pratama",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KRP186zL/CRUD-JS/issues"
+  },
+  "homepage": "https://github.com/KRP186zL/CRUD-JS#readme"
+}
